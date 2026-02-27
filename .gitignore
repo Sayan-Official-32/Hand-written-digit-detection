@@ -27,13 +27,13 @@ ENV/
 saved_model/
 checkpoints/
 
-# ==============================
-# Dataset Files (Optional)
-# ==============================
-data/
-datasets/
-*.csv
-*.xlsx
+# # ==============================
+# # Dataset Files (Optional)
+# # ==============================
+# data/
+# datasets/
+# *.csv
+# *.xlsx
 
 # ==============================
 # Logs
